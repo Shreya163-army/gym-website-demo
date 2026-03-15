@@ -9,9 +9,9 @@ function Gallery(){
       <h2>Transformations</h2>
 
       <div className="gallery-grid">
-        <img src={g1}/>
-        <img src={g2}/>
-        <img src={g3}/>
+        <img src={g1} alt="Transformation 1" />
+        <img src={g2} alt="Transformation 2" />
+        <img src={g3} alt="Transformation 3" />
       </div>
 
     </section>
