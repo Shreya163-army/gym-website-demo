@@ -7,7 +7,6 @@ function Navbar() {
         <a href="#programs">Programs</a>
         <a href="#trainers">Trainers</a>
         <a href="#plans">Plans</a>
-        <a href="#contact">Contact</a>
       </div>
     </nav>
   );
